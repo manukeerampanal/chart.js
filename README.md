@@ -1,4 +1,5 @@
 # chart.js
+This is a customize version created for me. The original repo for chart.js ca be found at https://github.com/nnnick/Chart.js
 var chart_data = [],<br/>
     barsCount = 50,<br/>
     labels = new Array(barsCount),<br/>

@@ -76,7 +76,7 @@ helpers.addEvent(legendHolderi.firstChild.firstChild.firstChild, 'mouseout', fun
 });<br/>
 document.getElementById('pie_chart_1').parentNode.appendChild(legendHolderi.firstChild);<br/>
 <script type="text/javascript" src="chart.js"></script>
-<canvas id="pie_chart_1" width="300" height="300"></canvas>
+<div id="chartdiv1" class="canvas-holde" style="margin:10px auto 0 15px;"><canvas id="pie_chart_1" width="300" height="300"></canvas><div id="legend_pie_chart_1"></div></div>
 <script type="text/javascript">
 var chart_data = [],
     barsCount = 50,

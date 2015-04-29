@@ -1,5 +1,5 @@
 # chart.js
-This is a customize version created for me. The original repo for chart.js ca be found at https://github.com/nnnick/Chart.js 
+This is a customize version created for me. The original repo for chart.js can be found at https://github.com/nnnick/Chart.js 
 <pre>var chart_data = [],
     barsCount = 50,
     labels = new Array(barsCount),
